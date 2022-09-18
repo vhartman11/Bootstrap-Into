@@ -1,4 +1,4 @@
-Project Title: Into to Bootstrap
+Project Title: Intro to Bootstrap
 
 Dscription of Project: This was used to introduce us to bootstrap and to show us different things you can use bootstrap for.
 
